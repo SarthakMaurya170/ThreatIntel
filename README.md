@@ -1,4 +1,6 @@
+
 Cyber Threat Intelligence SOC 🛡️
+<img width="1431" height="804" alt="Screenshot 2026-05-31 130422" src="https://github.com/user-attachments/assets/77a2802d-2bab-4758-afd1-31756e405992" />
 
 ##  Objective
 The goal of this project was to ingest, clean, and analyze over 450,000 raw network attack logs to identify geographic threat origins, target port vulnerabilities, and botnet attack velocities. 
